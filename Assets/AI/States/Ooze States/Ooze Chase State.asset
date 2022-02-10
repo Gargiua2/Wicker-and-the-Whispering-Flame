@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6368fe668076da4894bbb319ed4ad2e, type: 3}
+  m_Name: Ooze Chase State
+  m_EditorClassIdentifier: 
+  attackState: {fileID: 11400000, guid: b701ba5be26d8c94f8fecab2c2c7c3e7, type: 2}
+  idleState: {fileID: 11400000, guid: 636ec36d16a8bea44806ecf6330586e6, type: 2}

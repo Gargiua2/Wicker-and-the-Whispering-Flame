@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a6f2770c83592941868503df6bbca65, type: 3}
+  m_Name: Sapphire
+  m_EditorClassIdentifier: 
+  itemName: Freezing Sapphire
+  itemDescription: The Power of Ice is increased
+  lengthyDescription: An elemental gem. Holding this enhances the power of ice.
+  itemDescriptionPage: {fileID: 0}
+  sprite: {fileID: 21300000, guid: f0ffe8175b005ce418cd012b1673c2ae, type: 3}
+  statsModifier:
+    maxHP: 0
+    favor: 1
+    prowess: 0
+    craft: 0
+    physique: 0
+    finesse: 0
+  healing: 0
+  typeWithBonus: 2
+  bonusAmount: 2

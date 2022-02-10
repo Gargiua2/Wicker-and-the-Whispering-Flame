@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2ad9c4d4340a194e95867ac6c4d386e, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  weaponName: Staff
+  description: Ancient Magic
+  lengthyDescription: "A sturdy wooden staff, carved from the wood of an ancient tree.
+    \n\nAlthough it casts spells more slowly than modern arcane focuses, it is capable
+    of producing powerful magic. "
+  sprite: {fileID: 21300000, guid: 8758e0673a2ac6043a05afa646921a7d, type: 3}
+  icon: {fileID: 21300000, guid: fb3e342c1d155684bb6c4118f05d3ecc, type: 3}
+  freeStanding: 1
+  offsetFromCamera: {x: 0.23, y: -0.3, z: 0.5}
+  rotationOffset: {x: 0, y: 0, z: 0}
+  scale: {x: 0.75, y: 0.75, z: 0.75}
+  overrideController: {fileID: 22100000, guid: 3e28a53b5216f8047b933c6825cea102, type: 2}
+  animationSettings:
+    idleAnimationType: 2
+    idleAnimationSpeed: 1
+    idleAnimationFrequency: 0.379
+    idleAnimationChance: {x: 1, y: 3}
+    rotatationTarget: {x: 0, y: 0, z: 0}
+    moveTargetOffset: {x: -0.23, y: 0, z: 0.3}
+    startupAttackAnimationLength: 0.2
+    holdAttackAnimationLength: 0.8
+    endAttackAnimationLength: 0.2
+    secondaryTweens: []
+  fireRateModifier: 1.3
+  damageModifier: 1.7
+  rangeModifier: 2
+  shotSpeedModifier: 1.7
+  accuracyModifier: 1
+  damageTypeModifiers:
+  - damageType: 0
+    typeModfier: 1.5
+  additionalDamageType: 
+  projectileLaunchOffset: {x: 0, y: 1, z: 0}

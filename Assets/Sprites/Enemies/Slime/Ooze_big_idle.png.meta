@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: a864477f24c9ee84ca2f7abd0bf8dbb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2517875021188365421
+    second: Ooze_big_idle_0
+  - first:
+      213: -8201938237483262698
+    second: Ooze_big_idle_1
+  - first:
+      213: 1676939373389679713
+    second: Ooze_big_idle_2
+  - first:
+      213: -2365214366046882215
+    second: Ooze_big_idle_3
+  - first:
+      213: 5735123824057770976
+    second: Ooze_big_idle_4
+  - first:
+      213: -4573082767952805847
+    second: Ooze_big_idle_5
+  - first:
+      213: 8543029572037692353
+    second: Ooze_big_idle_6
+  - first:
+      213: 2822291050837819054
+    second: Ooze_big_idle_7
+  - first:
+      213: -313915261451226360
+    second: Ooze_big_idle_8
+  - first:
+      213: -5415949174441185816
+    second: Ooze_big_idle_9
+  - first:
+      213: -3033517508744875947
+    second: Ooze_big_idle_10
+  - first:
+      213: 8866067396538268018
+    second: Ooze_big_idle_11
+  - first:
+      213: 2768595802871967792
+    second: Ooze_big_idle_12
+  - first:
+      213: 712499407047688683
+    second: Ooze_big_idle_13
+  - first:
+      213: -3349092686300198503
+    second: Ooze_big_idle_14
+  - first:
+      213: -8490882821286013346
+    second: Ooze_big_idle_15
+  - first:
+      213: 5435761042269321498
+    second: Ooze_big_idle_16
+  - first:
+      213: 7352054406378762832
+    second: Ooze_big_idle_17
+  - first:
+      213: -255670427830492864
+    second: Ooze_big_idle_18
+  - first:
+      213: 1541434954578573421
+    second: Ooze_big_idle_19
+  - first:
+      213: -6080745180984118808
+    second: Ooze_big_idle_20
+  - first:
+      213: 2413417701894358018
+    second: Ooze_big_idle_21
+  - first:
+      213: -153317896742068377
+    second: Ooze_big_idle_22
+  - first:
+      213: 5608235595789877712
+    second: Ooze_big_idle_23
+  - first:
+      213: 4700366153172783682
+    second: Ooze_big_idle_24
+  - first:
+      213: -678455721841765767
+    second: Ooze_big_idle_25
+  - first:
+      213: 136243312588108037
+    second: Ooze_big_idle_26
+  - first:
+      213: 3712184971381212671
+    second: Ooze_big_idle_27
+  - first:
+      213: -6739367668454060391
+    second: Ooze_big_idle_28
+  - first:
+      213: 7481461692527035359
+    second: Ooze_big_idle_29
+  - first:
+      213: 1684236799781117282
+    second: Ooze_big_idle_30
+  - first:
+      213: 3746937932311488877
+    second: Ooze_big_idle_31
+  - first:
+      213: 2209055930884714288
+    second: Ooze_big_idle_32
+  - first:
+      213: 8838919614371890737
+    second: Ooze_big_idle_33
+  - first:
+      213: 4383569696703553319
+    second: Ooze_big_idle_34
+  - first:
+      213: 9198711017658417096
+    second: Ooze_big_idle_35
+  - first:
+      213: -7646154677343963939
+    second: Ooze_big_idle_36
+  - first:
+      213: 3948233914459837977
+    second: Ooze_big_idle_37
+  - first:
+      213: -6803488462454997061
+    second: Ooze_big_idle_38
+  - first:
+      213: 4880906062774734594
+    second: Ooze_big_idle_39
+  - first:
+      213: 7737628195277179168
+    second: Ooze_big_idle_40
+  - first:
+      213: -310939147345442713
+    second: Ooze_big_idle_41
+  - first:
+      213: -6154988288534044427
+    second: Ooze_big_idle_42
+  - first:
+      213: 7009097578053461752
+    second: Ooze_big_idle_43
+  - first:
+      213: -4194545377870518830
+    second: Ooze_big_idle_44
+  - first:
+      213: 4451174380354911702
+    second: Ooze_big_idle_45
+  - first:
+      213: -594125426514644324
+    second: Ooze_big_idle_46
+  - first:
+      213: 5666955144249575505
+    second: Ooze_big_idle_47
+  - first:
+      213: 4405006339256284846
+    second: Ooze_big_idle_48
+  - first:
+      213: 1793171191988781418
+    second: Ooze_big_idle_49
+  - first:
+      213: -4038399889600983648
+    second: Ooze_big_idle_50
+  - first:
+      213: 9142199923369924757
+    second: Ooze_big_idle_51
+  - first:
+      213: 5654998856443242649
+    second: Ooze_big_idle_52
+  - first:
+      213: -6432990186812561784
+    second: Ooze_big_idle_53
+  - first:
+      213: 3178290314388001553
+    second: Ooze_big_idle_54
+  - first:
+      213: 8358749707984828967
+    second: Ooze_big_idle_55
+  - first:
+      213: 8426362209734613848
+    second: Ooze_big_idle_56
+  - first:
+      213: 4991296554084839495
+    second: Ooze_big_idle_57
+  - first:
+      213: -655829282280287581
+    second: Ooze_big_idle_58
+  - first:
+      213: 6429246587759273016
+    second: Ooze_big_idle_59
+  - first:
+      213: 266683545487925715
+    second: Ooze_big_idle_60
+  - first:
+      213: -6671681723553002706
+    second: Ooze_big_idle_61
+  - first:
+      213: 7121942680241144088
+    second: Ooze_big_idle_62
+  - first:
+      213: -7303178629934933493
+    second: Ooze_big_idle_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ooze_big_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fdc6b0f34aadd46b2fe2e29125b614
+      internalID: -2517875021188365421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933df72daa3872549ba26a5b6dfc2d3b
+      internalID: -8201938237483262698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63887284f233743a5fe87d2adb82fa
+      internalID: 1676939373389679713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4068d808e6f17d4c84a2630fdf78851
+      internalID: -2365214366046882215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df03a56b35817ec4d9c90f57e7553291
+      internalID: 5735123824057770976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba277723cd61b9046a156b0e420a7b69
+      internalID: -4573082767952805847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5085df966f8f9dd41863225623fe249e
+      internalID: 8543029572037692353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f93b9186a8fe84c8e31a76e182e952
+      internalID: 2822291050837819054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572dc68e57cbc5345a2d71658a1ca17d
+      internalID: -313915261451226360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6a7ab2b9526624c8d205fe6613e3b2
+      internalID: -5415949174441185816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384a6770afdd8bf4b9f47adcc262d54b
+      internalID: -3033517508744875947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e48f3b7f441b6644a7a657530960a67
+      internalID: 8866067396538268018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf68b32e56e12499ff8b0767857b06
+      internalID: 2768595802871967792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1202c60aa39f6b843b6ff62c662db27d
+      internalID: 712499407047688683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b075dd36107df5d4eb7c9090fdd19ecc
+      internalID: -3349092686300198503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ooze_big_idle_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8d344fb0f50e49a0f70670a76a24a
+      internalID: -8490882821286013346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ooze_big_idle_13: 712499407047688683
+      Ooze_big_idle_9: -5415949174441185816
+      Ooze_big_idle_7: 2822291050837819054
+      Ooze_big_idle_15: -8490882821286013346
+      Ooze_big_idle_6: 8543029572037692353
+      Ooze_big_idle_5: -4573082767952805847
+      Ooze_big_idle_1: -8201938237483262698
+      Ooze_big_idle_12: 2768595802871967792
+      Ooze_big_idle_2: 1676939373389679713
+      Ooze_big_idle_8: -313915261451226360
+      Ooze_big_idle_4: 5735123824057770976
+      Ooze_big_idle_14: -3349092686300198503
+      Ooze_big_idle_11: 8866067396538268018
+      Ooze_big_idle_10: -3033517508744875947
+      Ooze_big_idle_3: -2365214366046882215
+      Ooze_big_idle_0: -2517875021188365421
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

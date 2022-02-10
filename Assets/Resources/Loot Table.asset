@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a86716234c0b2c43855b9d2ee45ebb7, type: 3}
+  m_Name: Loot Table
+  m_EditorClassIdentifier: 
+  loot:
+  - loot: {fileID: 11400000, guid: 5d39ffb4c7df8cd4b85458f6d74b805a, type: 2}
+    rarity: 3
+  - loot: {fileID: 11400000, guid: 510791473529fdb48b7194cd63efee7f, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 969b67583d6178b409a9b881faa30a21, type: 2}
+    rarity: 1
+  - loot: {fileID: 11400000, guid: 116b3b4fb11029a42b1b88fb3abe273b, type: 2}
+    rarity: 1
+  - loot: {fileID: 11400000, guid: 184dbece7d8740848a683b8d957aff2f, type: 2}
+    rarity: 3
+  - loot: {fileID: 11400000, guid: f63becfcee72cc2438fb5c97369ef976, type: 2}
+    rarity: 1
+  - loot: {fileID: 11400000, guid: bfe739cf9ef1ac84f9e696d245f3c675, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 24bb9819c34d86e418f59b9b4bd2ccdd, type: 2}
+    rarity: 3
+  - loot: {fileID: 11400000, guid: 9d12e4e0e1d5206468dbd60bd18af26b, type: 2}
+    rarity: 3
+  - loot: {fileID: 11400000, guid: e08ba07e2c28d8644830e43e6699cbfa, type: 2}
+    rarity: 3
+  - loot: {fileID: 11400000, guid: 9608c483c8db8bd4ab1c6189570fdc18, type: 2}
+    rarity: 1
+  - loot: {fileID: 11400000, guid: 7d7f4037a85be304b9fd9e6eb42588b2, type: 2}
+    rarity: 1
+  - loot: {fileID: 11400000, guid: e62280045428eae4580069bbdaf788b0, type: 2}
+    rarity: 3
+  - loot: {fileID: 11400000, guid: faa633ecd9ac82847a7a68a58c60b430, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 7f33b57b147cac64dadfb0f11cc85701, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 7d39dfbed3d708b498c34a6311665a18, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 696f016ab67e14242a13d5fdf39760cd, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 165be2f54b390e04cb40d03609b759de, type: 2}
+    rarity: 1
+  - loot: {fileID: 11400000, guid: 0d4885f5ebc194f4cb982b619051861e, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: ac6cc2d41ecbfb94691505efd10f43c6, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 16abcf1d2e539034eb0a053105455e7f, type: 2}
+    rarity: 1
+  - loot: {fileID: 11400000, guid: 6ad3b0ee7a8912b4d9aca48f09102bdc, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 96ed0663c2648ac469c1b73f03eab24a, type: 2}
+    rarity: 2
+  - loot: {fileID: 11400000, guid: 91a1f8034b6cc2e45b8ad9be95e000d2, type: 2}
+    rarity: 1
+  - loot: {fileID: 11400000, guid: 83920b299a5812941b83ad1fbcd2b4a8, type: 2}
+    rarity: 2

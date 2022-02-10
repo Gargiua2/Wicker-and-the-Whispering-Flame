@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Glove Controller
+  m_Controller: {fileID: 9100000, guid: f6f3a0f88e89ae2478b2549b86854d0d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 564f74594055d8546a2819dd98cec936, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 24937e9ba8d58ce4b9287c4014d52cb8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 04b94f3ae815a2c4b951674fa0ac6224, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4bc4324c6f2f5ee4e98f3c265ea678c9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b84ab9911b135dd4e8db65ab98b2eebc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d7d06074c67d1d14996c11d1fff770c0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4812ee8d70e7d474996b40898f1a74bc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0418a0947af8d3f4a82959cf81e07a8c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bf7b90ca2ebfd3241bc203aea6e7ca17, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4662cefb81c34746bc6cbbf87c66163, type: 2}

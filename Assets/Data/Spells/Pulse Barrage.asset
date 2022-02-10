@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c003c0dd3f2d2db40a37c8a529795cab, type: 3}
+  m_Name: Pulse Barrage
+  m_EditorClassIdentifier: 
+  spellName: Pulse Barrage
+  spellDescription: Static Missile Barrage
+  lengthyDescription: One of the basic elemental spells. Fires a high frequency barrage
+    of static projectiles at your enemy.
+  descriptionPage: {fileID: 0}
+  sprite: {fileID: 21300000, guid: ddfc1cfd1565e214ca501c27bd67388e, type: 3}
+  fireType: 1
+  magicDamageType: 3
+  projectileBehavior: 0
+  projectilePrefab: {fileID: 5043821217204897036, guid: 6239e4da78376e94482dcb5cd9b20be9,
+    type: 3}
+  Damage: 6
+  overflowAmount: 4
+  shotSpeed: 0.761
+  fireRate: 16.9
+  accuracy: 0.34
+  range: 2.487
+  shotCount: 1
+  projectileSize: 0.427
+  spellCastAudio: {fileID: 8300000, guid: aa2f56e8c6acece48a0bfc0dd9949646, type: 3}
+  projectileParticleSystem: {fileID: 1751925364487861949, guid: 5199b4b4305b70f43815135423cff4aa,
+    type: 3}
+  projectileAnimationSettings:
+    animateInEnd: 0.103
+    startScale: 0.1
+    animateOutStart: 0.9
+    endScale: 0.1
+  impactParticleSystem: {fileID: 2180538564818479788, guid: 736084558aeb41547945d830ee2f28f9,
+    type: 3}

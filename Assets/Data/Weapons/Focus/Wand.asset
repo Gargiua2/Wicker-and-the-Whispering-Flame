@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2ad9c4d4340a194e95867ac6c4d386e, type: 3}
+  m_Name: Wand
+  m_EditorClassIdentifier: 
+  weaponName: Crystal Wand
+  description: Passed down for generations.
+  lengthyDescription: "An old wand. It's been in the family for years. \n\nWhile it
+    isnt anything special, its always been reliable."
+  sprite: {fileID: -4665680513569460959, guid: 2719294c07f436a40aafe2190fe3949c, type: 3}
+  icon: {fileID: 21300000, guid: d003a3ca89eb6994190761b4e2eed00f, type: 3}
+  freeStanding: 0
+  offsetFromCamera: {x: 0.9, y: -0.45, z: 1.2}
+  rotationOffset: {x: 0, y: 0, z: 33}
+  scale: {x: 0.75, y: 0.75, z: 0.75}
+  overrideController: {fileID: 22100000, guid: 69188fa193367344b81ecb1d37921e89, type: 2}
+  animationSettings:
+    idleAnimationType: 2
+    idleAnimationSpeed: 1
+    idleAnimationFrequency: 3
+    idleAnimationChance: {x: 0.5, y: 2}
+    rotatationTarget: {x: 30, y: 50, z: 0}
+    moveTargetOffset: {x: 0, y: 0, z: 0}
+    startupAttackAnimationLength: 0.1
+    holdAttackAnimationLength: 0.3
+    endAttackAnimationLength: 0.6
+    secondaryTweens: []
+  fireRateModifier: 1
+  damageModifier: 1.1
+  rangeModifier: 1
+  shotSpeedModifier: 1
+  accuracyModifier: 1
+  damageTypeModifiers:
+  - damageType: 0
+    typeModfier: 1.2
+  additionalDamageType: 
+  projectileLaunchOffset: {x: 0.1, y: 0.65, z: 0}

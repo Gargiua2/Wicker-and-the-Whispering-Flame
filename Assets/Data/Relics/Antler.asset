@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c250f97de6234134982dc671db19619d, type: 3}
+  m_Name: Antler
+  m_EditorClassIdentifier: 
+  itemName: Antler
+  itemDescription: Increased Physqiue
+  lengthyDescription: The antler of stag. This was someones good luck charm. Holding
+    it makes you feel sturdier.
+  itemDescriptionPage: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 3ddce206a74ac024782ed89c4d6c78cb, type: 3}
+  statsModifier:
+    maxHP: 0
+    favor: 0
+    prowess: 0
+    craft: 0
+    physique: 2
+    finesse: 0
+  healing: 0

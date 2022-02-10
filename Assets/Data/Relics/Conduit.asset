@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd7e61ba713aa404d867cff8ba33c7cd, type: 3}
+  m_Name: Conduit
+  m_EditorClassIdentifier: 
+  itemName: Broken Conduit
+  itemDescription: Overflow channels outwards
+  lengthyDescription: 'A magical coduit, like the sort many wands use. It seems broken.
+
+
+    Holding this channels energy from magical overflow outwards, damaging enemies
+    around you at the same time as yourself.'
+  itemDescriptionPage: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 88c9deae6648e0b45b1263884ac6640c, type: 3}
+  statsModifier:
+    maxHP: 0
+    favor: 0
+    prowess: 0
+    craft: 0
+    physique: 0
+    finesse: 0
+  healing: 0
+  particleEffect: {fileID: 6480736134375110125, guid: 34bb8a2c657b86046befb2c618e79332,
+    type: 3}
+  range: 10
+  damage: 5

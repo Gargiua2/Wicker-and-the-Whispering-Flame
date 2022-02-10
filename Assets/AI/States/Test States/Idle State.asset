@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e3c55422c14d014aa5da3f0293205b3, type: 3}
+  m_Name: Idle State
+  m_EditorClassIdentifier: 
+  wanderRadius: 1
+  forwardOffset: 0
+  wanderStrength: 0.15
+  attackRange: 25
+  huntingState: {fileID: 11400000, guid: cef5ee2b348437b44b0d6458626c5b28, type: 2}
+  fleeingState: {fileID: 11400000, guid: cd13dbd6f7baf6d4abdae8cd5f7d1ba0, type: 2}

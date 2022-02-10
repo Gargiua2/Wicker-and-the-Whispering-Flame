@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c003c0dd3f2d2db40a37c8a529795cab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {fileID: -7524193634670060901, guid: 5bb1ac1f56ce7814ab6f1fc5b168494c,
+      type: 3}
+  - projectilePrefab: {fileID: 5043821217204897036, guid: 6239e4da78376e94482dcb5cd9b20be9,
+      type: 3}
+  - spellCastAudio: {fileID: 8300000, guid: aa2f56e8c6acece48a0bfc0dd9949646, type: 3}
+  - projectileParticleSystem: {fileID: 1705558491049356342, guid: 0d4fbf6192c67374aaf4f8f0abb5b2da,
+      type: 3}
+  - impactParticleSystem: {fileID: 2180538564818479788, guid: 736084558aeb41547945d830ee2f28f9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

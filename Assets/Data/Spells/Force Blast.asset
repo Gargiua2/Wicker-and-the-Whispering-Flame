@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c003c0dd3f2d2db40a37c8a529795cab, type: 3}
+  m_Name: Force Blast
+  m_EditorClassIdentifier: 
+  spellName: Force Blast
+  spellDescription: A Basic Spell
+  lengthyDescription: One of the basic elemntal spells. Casts a blast of concentrated
+    air in the direction of your enemy.
+  descriptionPage: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 8d250c07c619672429ce4b9fc68cc6b9, type: 3}
+  fireType: 0
+  magicDamageType: 0
+  projectileBehavior: 0
+  projectilePrefab: {fileID: 5043821217204897036, guid: 6239e4da78376e94482dcb5cd9b20be9,
+    type: 3}
+  Damage: 9
+  overflowAmount: 5
+  shotSpeed: 0.732
+  fireRate: 14.32
+  accuracy: 0.28
+  range: 1.175
+  shotCount: 1
+  projectileSize: 0.8
+  spellCastAudio: {fileID: 8300000, guid: aa2f56e8c6acece48a0bfc0dd9949646, type: 3}
+  projectileParticleSystem: {fileID: 2285315947935274565, guid: 405371dbf42d008428f45ce67a797065,
+    type: 3}
+  projectileAnimationSettings:
+    animateInEnd: 0.1
+    startScale: 0.1
+    animateOutStart: 0.9
+    endScale: 0.1
+  impactParticleSystem: {fileID: 2180538564818479788, guid: 736084558aeb41547945d830ee2f28f9,
+    type: 3}

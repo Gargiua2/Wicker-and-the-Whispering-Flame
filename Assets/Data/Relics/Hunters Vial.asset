@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d7920ab557f76443a39da403b0e8c68, type: 3}
+  m_Name: Hunters Vial
+  m_EditorClassIdentifier: 
+  itemName: Old Vial
+  itemDescription: Siphons blood.
+  lengthyDescription: "An old blood siphon and vial. Hunters would carry these with
+    them, and if things got dire, they could drain blood from their kills to heal
+    themselves. \n\nIt should still work - at least most of the time."
+  itemDescriptionPage: {fileID: 0}
+  sprite: {fileID: 21300000, guid: fc4fe0008c024db429bf1d9ee9ce7a65, type: 3}
+  statsModifier:
+    maxHP: 0
+    favor: 0
+    prowess: 0
+    craft: 0
+    physique: 0
+    finesse: 0
+  healing: 3
+  percentChance: 0.25
+  percentHeal: 0.1

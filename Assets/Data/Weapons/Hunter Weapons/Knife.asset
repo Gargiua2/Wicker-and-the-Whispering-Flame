@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85d9eff08642f424ca2313859aec2723, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  weaponName: Dagger
+  description: Inhumanly sharp edge.
+  lengthyDescription: "A hunters old knife. Although it seems to have gone unused
+    for years, it still has a dangerously sharp edge. Good for fighting fast and up
+    close. \n\nIt's signature technique allows you to perform a lunging stab over
+    a long distance."
+  sprite: {fileID: 21300000, guid: eecea78e4d283a14890f8014dc199646, type: 3}
+  icon: {fileID: 21300000, guid: d6c1205ed9fd2f6489a99ef7ffdba1a8, type: 3}
+  freeStanding: 0
+  offsetFromCamera: {x: 0.65, y: -0.2, z: 0.7}
+  rotationOffset: {x: 0, y: 0, z: -12}
+  scale: {x: 0.6, y: 0.6, z: 1}
+  overrideController: {fileID: 22100000, guid: 7e5958542f23a144a9e5eb3765aa47ff, type: 2}
+  animationSettings:
+    idleAnimationType: 3
+    idleAnimationSpeed: 0
+    idleAnimationFrequency: 0
+    idleAnimationChance: {x: 0, y: 0}
+    rotatationTarget: {x: 50, y: 0, z: 72}
+    moveTargetOffset: {x: -1.3, y: 0.3, z: 0.3}
+    startupAttackAnimationLength: 0.35
+    holdAttackAnimationLength: 0.3
+    endAttackAnimationLength: 0.35
+    secondaryTweens:
+    - rotatationTarget: {x: 0, y: 0, z: 12}
+      moveTargetOffset: {x: -0.7, y: 0.1, z: 0}
+      startupAttackAnimationLength: 0
+      holdAttackAnimationLength: 0.8
+      endAttackAnimationLength: 0.2
+  attacks:
+  - baseDamage: 5
+    attackLength: 0.2
+    attackDelay: 0.1
+    attackCooldown: 0.25
+    hitboxHalfExtents: {x: 1, y: 0.5, z: 2}
+    hitBoxDistance: 1
+    attackAudio: {fileID: 8300000, guid: 5f343fa8a80545144bae1dc33bcc3048, type: 3}
+    attackEffect: {fileID: 2645589746183426390, guid: 12bf6fd6f67164c45a539df37b6f1bbf,
+      type: 3}
+    lockMovement: 0
+  - baseDamage: 10
+    attackLength: 0.75
+    attackDelay: 0.1
+    attackCooldown: 1
+    hitboxHalfExtents: {x: 1, y: 0.5, z: 2}
+    hitBoxDistance: 1
+    attackAudio: {fileID: 8300000, guid: 5f343fa8a80545144bae1dc33bcc3048, type: 3}
+    attackEffect: {fileID: 5796049456356834872, guid: 062b1bfdf6b1c2a4cafa78e557fb5cdd,
+      type: 3}
+    lockMovement: 0
+  movement:
+  - segmentLength: 0.5
+    relativeMovement: {x: 0, y: 0, z: 16}
+    relativeRotation: {x: 0, y: 0, z: 0}
+    lockMovement: 0

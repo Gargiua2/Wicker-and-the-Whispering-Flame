@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac48177f5aaac04497c9dee456c2e8e, type: 3}
+  m_Name: Bat Chase State
+  m_EditorClassIdentifier: 
+  batSprite: {fileID: -5807824008938621023, guid: 002be9b7747997646aa68ca88ecb2a9f,
+    type: 3}
+  leashRange: 25
+  attackState: {fileID: 11400000, guid: 4a45b2a3a05bac543b6981338be4e920, type: 2}
+  returnState: {fileID: 11400000, guid: b77d83fcbc16dea41beb16b16695f1fc, type: 2}

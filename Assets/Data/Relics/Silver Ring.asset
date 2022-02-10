@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c250f97de6234134982dc671db19619d, type: 3}
+  m_Name: Silver Ring
+  m_EditorClassIdentifier: 
+  itemName: Silver Band
+  itemDescription: Increased Prowess
+  lengthyDescription: 'A ring made of pure silver. The silver reinforces your body,
+    making you feel stronger. '
+  itemDescriptionPage: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 5e1f147d9078cd849b2823500c817405, type: 3}
+  statsModifier:
+    maxHP: 0
+    favor: 0
+    prowess: 2
+    craft: 0
+    physique: 0
+    finesse: 0
+  healing: 0
